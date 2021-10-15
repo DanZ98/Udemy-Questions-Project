@@ -1,4 +1,4 @@
-# Reviews JavaScript Project
+# Questions JavaScript Project
 
 A Udemy project showcasing general questions click action project in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
 
